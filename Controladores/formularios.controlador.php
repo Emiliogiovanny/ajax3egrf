@@ -1,0 +1,1 @@
+public static public function ctrRegistro

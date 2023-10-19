@@ -1,0 +1,1 @@
+$stmt = Conexion: : conectar() ->prepare("INSER INTO $Tabla)

@@ -1,0 +1,15 @@
+# AJAX 
+# (Asyncgronous JavaScript and XML)
+# surgio ajaz inicialmente javasript y xml asincrono, aunque hoy en dia ya no es una tecnologia 
+# ligada a xml esta tecnologia trata de evitar las demoras propias de las peticiones 
+# y respuestas al servidor mediante la transmision de datos en segundo plano usando un protocolo 
+# especificamente diseñado para la transmision rapida de pequeños paquetes por lo tanto se 
+# realizan peticiones al servidor y obtener una respuesta en segundo plano 
+# y usar esos datos a traves de javascript, modificar los contenidos de la pagina creando efectos dinamicos 
+# y rapidos 
+# registro > enviar > bd > inicio 
+# JavaScript > PHP > BD > PHP > JSON
+# echo string // imprime cadenas 
+# no podemos imprimir 
+# ARRAY 
+# OBJECT
